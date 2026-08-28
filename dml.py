@@ -2,7 +2,7 @@ import sqlite3
 from datetime import date
 
 # Conexão e criação da tabela base (DDL implícita)
-con = sqlite3.connect('empresa_dml.db')
+con = sqlite3.connect('henriquers-dev.db')
 cur = con.cursor()
 cur.execute('''
 CREATE TABLE IF NOT EXISTS funcionarios (
