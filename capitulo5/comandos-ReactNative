@@ -1,1 +1,5 @@
+# Verificar a versão do Node.js
+$ node -v
 
+# Verificar a versão do NPM
+$ npm -v
