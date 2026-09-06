@@ -1,2 +1,2 @@
-# FIAP-fase5-capitulos-ia-2Ano
-Fase 5 - Capítulos de Inteligência Artificial - FIAP - 2º Ano - 2026.2
+# Fase 5 - Capítulos de Inteligência Artificial - FIAP - 2º Ano - 2026.2
+@ Licenciado por FIAP
